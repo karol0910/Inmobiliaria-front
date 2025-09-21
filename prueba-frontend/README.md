@@ -12,7 +12,7 @@ Aplicación para gestión de propiedades inmobiliarias, inspirada en **Inmobilia
 - Diseño responsivo y profesional
 - Arquitectura hexagonal en backend
 
-## 🛠️ Tecnologías Utilizadas
+##  Tecnologías Utilizadas
 
 ### Backend (.NET 8)
 - **Framework**: .NET 8
@@ -27,4 +27,4 @@ Aplicación para gestión de propiedades inmobiliarias, inspirada en **Inmobilia
 - **Pruebas**: Jest + React Testing Library
 - **Routing**: React Router DOM
 
-## 📦 Estructura del Proyecto
+## Estructura del Proyecto
